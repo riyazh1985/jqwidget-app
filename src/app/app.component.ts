@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'jqwidget-app';
+  values: number[] = [102, 115, 130, 200];
 }
